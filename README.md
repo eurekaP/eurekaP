@@ -76,8 +76,8 @@ CSS          9 mins          ▒░░░░░░░░░░░░░░░░
 
 📈 My GitHub Stats
 <p>
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=black-wyvern-dev&sshow_icons=true&theme=gotham&count_private=true">
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=black-wyvern-dev&layout=compact&theme=monokai&count_private=true">
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=star-dev&sshow_icons=true&theme=gotham&count_private=true">
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=star-dev&layout=compact&theme=monokai&count_private=true">
 </p>
 
 
