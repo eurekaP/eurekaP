@@ -62,8 +62,8 @@ CSS          14 mins         ▒░░░░░░░░░░░░░░░░
 
 📈 My GitHub Stats
 <p>
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=toptalent333&sshow_icons=true&theme=gotham&count_private=true">
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=star-dev&layout=compact&theme=monokai&count_private=true">
+<img align="left" alt="Current Github Stats" src="https://github-readme-stats.vercel.app/api?username=eliben&show_icons=true&hide_border=true&theme=dark&hide_title=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliben&layout=compact&theme=monokai&count_private=true">
 </p>
 
 
