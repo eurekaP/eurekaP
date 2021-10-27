@@ -4,6 +4,10 @@
 
 <br />
 
+Hi, 
+I am a passionate full-stack developer working with React and Vue for frontend, and Laravel and Node for backend mainly.
+As I work as a full-stack developer, I like to dream up entire logic for various requirements and make them be realistic with awesome interfaces. I mainly take my efforts to get experience in many fields of web technologies and implement high quality codes.
+
 **Major Skill:**  
 <code><img height="20" src="https://github.com/black-wyvern-dev/black-wyvern-dev/blob/main/images/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
