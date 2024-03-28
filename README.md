@@ -36,10 +36,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-
 ##
-
-
 📈 My GitHub Stats
 <p>
 <img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=eliben&show_icons=true&hide_border=true&theme=dark&hide_title=true" >
