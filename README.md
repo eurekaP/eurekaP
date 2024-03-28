@@ -8,6 +8,10 @@
 ![WebGL](https://img.shields.io/badge/WebGL-black?style=plastic&logo=webgl&logoColor=990000)
 ![OpenGL](https://img.shields.io/badge/OpenGL-black?style=plastic&logo=opengl&logoColor=990000)
 ![R3F](https://img.shields.io/badge/React3Fiber-black?style=plastic&logoColor=990000)
+![Babylon.js](https://img.shields.io/badge/BabylonJS-black?style=plastic&logoColor=990000)
+![Pixi.js](https://img.shields.io/badge/PixiJS-black?style=plastic&logoColor=990000)
+
+
 
 ![Svelte](https://img.shields.io/badge/Svelte-black?style=plastic&logo=svelte&logoColor=FF3E00)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=plastic&logo=html5&logoColor=E34F26)
