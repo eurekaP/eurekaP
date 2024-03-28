@@ -1,6 +1,6 @@
 
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://visitor-badge.glitch.me/badge?page_id=black-wyvern-dev.black-wyvern-dev)
+![](https://visitor-badge.glitch.me/badge?page_id=eurekaP.eurekaP)
 
 # 💻 Main Skills:
 
@@ -46,7 +46,7 @@
 📈 My GitHub Stats
 <p>
 <img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=eliben&show_icons=true&hide_border=true&theme=dark&hide_title=true" >
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=black-wyvern-dev&layout=compact&theme=monokai&count_private=true">
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=eurekaP&layout=compact&theme=monokai&count_private=true">
 </p>
 
 
