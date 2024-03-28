@@ -1,6 +1,6 @@
 
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://visitor-badge.glitch.me/badge?page_id=eurekaP.eurekaP)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=eurekaP%2FeurekaP&countColor=%2337d67a)](https://visitorbadge.io/status?path=eurekaP%2FeurekaP)
 
 # 💻 Main Skills:
 
