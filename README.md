@@ -1,9 +1,6 @@
 
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=eurekaP%2FeurekaP&countColor=%2337d67a)](https://visitorbadge.io/status?path=eurekaP%2FeurekaP)
-
 # 💻 Main Skills:
-
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
