@@ -19,21 +19,7 @@ As I work as a full-stack developer, I like to dream up entire logic for various
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JSX          14 hrs 32 mins  ███████████████             60.55 % 
-JavaScript   8 hr 38 mins    █████████░░░░░░░░░░░░░░░░   35.96 % 
-JSON         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-```
-<!--END_SECTION:waka-->
-
-
-
-## Main Skill
-
-
+# 💻 Main Skills:
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
